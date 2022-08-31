@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://liuqi:liuqi@node1:27017/?maxPoolSize=20&w=majority
+      database: test

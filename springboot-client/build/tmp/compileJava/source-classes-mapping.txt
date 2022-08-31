@@ -1,0 +1,12 @@
+com/example/model/Item.java
+ com.example.model.Item
+com/example/MdbSpringBootApplication.java
+ com.example.MdbSpringBootApplication
+com/example/repository/ItemRepository.java
+ com.example.repository.ItemRepository
+com/example/config/Config.java
+ com.example.config.Config
+com/example/service/ItemService.java
+ com.example.service.ItemService
+com/example/controller/ItemController.java
+ com.example.controller.ItemController
